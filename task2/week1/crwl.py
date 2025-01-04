@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
+
 prefix = 'https://www.ikw.uni-osnabrueck.de/en/'
 
 start_url = prefix+'home.html'
