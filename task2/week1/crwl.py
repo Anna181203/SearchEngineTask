@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin, urlparse
 
 prefix = 'https://www.ikw.uni-osnabrueck.de/en/'
 
@@ -22,17 +21,13 @@ while agenda:
         visited.add(url)
 
         for link in soup.find_all('a', href=True):
-            # Manuelle Umwandlung der relativen URL in eine absolute URL
             href = link['href']
 
             if href.startswith('http'):
-                # Wenn die URL schon absolut ist, verwenden wir sie direkt
                 absolute_url = href
             elif href.startswith('/'):
-                # Wenn die URL mit einem Schrägstrich beginnt, ist es eine relative URL zum Root-Verzeichnis
                 absolute_url = prefix + href[1:]
             else:
-                # Ansonsten ist es eine relative URL, die an die aktuelle URL angehängt werden muss
                 absolute_url = url + href
 
             if absolute_url.startswith(prefix) and absolute_url not in visited:
