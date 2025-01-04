@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import re
 
 
 prefix = 'https://www.ikw.uni-osnabrueck.de/en/'
@@ -8,6 +9,15 @@ start_url = prefix+'home.html'
 
 agenda = [start_url]
 visited = set()
+index = {}
+
+def build_index(text, url):
+    """Build an in-memory index for the words in the page text."""
+    words = re.findall(r'\w+', text.lower())  # Extract words
+    for word in set(words):  # Avoid duplicate words
+        if word not in index:
+            index[word] = []
+        index[word].append(url)
 
 while agenda:
     url = agenda.pop()
