@@ -1,18 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcb83688-7821-4b81-906b-693a951089a1" name="Changes" comment="" />
+    <list default="true" id="fcb83688-7821-4b81-906b-693a951089a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/task2/week2/templates/results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ai.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ai.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/week1/crwl.py" beforeDir="false" afterPath="$PROJECT_DIR$/task2/week1/crwl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/week2/indexdir/MAIN_WRITELOCK" beforeDir="false" afterPath="$PROJECT_DIR$/task2/week2/indexer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/week2/indexdir/MAIN_w8i7d9kraacqe4ig.seg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/week2/indexdir/_MAIN_1.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/week2/myapp2.py" beforeDir="false" afterPath="$PROJECT_DIR$/task2/week2/myapp2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/week2/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/task2/week2/search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/week2/templates/start.html" beforeDir="false" afterPath="$PROJECT_DIR$/task2/week2/templates/start.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2pyslwXlLUiWzLBvE3rOrSWnr5A" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,15 +43,53 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.Unnamed.executor": "Run",
+    "Python.ai-web.executor": "Run",
+    "Python.crwl.executor": "Run",
+    "Python.indexer.executor": "Run",
+    "Python.inspect_index.executor": "Run",
+    "Python.myapp2.executor": "Run",
+    "Python.search.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Kev/miniconda3/envs/aiweb2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.EditorConfig"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kev\PycharmProjects\ai-web\task2\week2" />
+      <recent name="C:\Users\Kev\PycharmProjects\ai-web\task2\week1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ai-web" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ai" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
       </set>
     </attachedChunks>
   </component>
@@ -43,5 +103,9 @@
       <updated>1733749805194</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tried building in-memory index" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
