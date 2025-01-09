@@ -20,4 +20,3 @@ if __name__ == "__main__":
     index_dir = "indexdir"
     create_index(index_dir)
     print(f"Index initialized at {index_dir}. Ready for population!")
-
