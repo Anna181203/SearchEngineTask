@@ -1,5 +1,6 @@
 from whoosh.index import create_in
-from whoosh.fields import *
+from whoosh.fields import Schema, TEXT, ID
+
 
 # Here, the structure of index entires is defined. You can add more fields with metadata, computed values etc.,
 # and use them for searching and ranking. 
@@ -12,11 +13,6 @@ from whoosh.fields import *
 # Create an index in the directory indexdr (the directory must already exist!)
 ix = create_in("indexdir", schema)
 writer = ix.writer()
-
-# now let's add some texts (=documents)
-writer.add_document(title=u"First document", content=u"This is the first document we've added!")
-writer.add_document(title=u"Second document", content=u"The second one is even more interesting!")
-writer.add_document(title=u"Songtext", content=u"Music was my first love and it will be the last")
 
 # write the index to the disk
 writer.commit()

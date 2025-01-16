@@ -4,10 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcb83688-7821-4b81-906b-693a951089a1" name="Changes" comment="Now myapp2.py should work correctly">
+    <list default="true" id="fcb83688-7821-4b81-906b-693a951089a1" name="Changes" comment="Now myapp2.py should work correctly.&#10;And the design is cuter. Do we think we will be rich because of all the people wanting to post ads on our search engine? I am sure of it!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task2/week2/templates/results.html" beforeDir="false" afterPath="$PROJECT_DIR$/task2/week2/templates/results.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task2/week2/templates/start.html" beforeDir="false" afterPath="$PROJECT_DIR$/task2/week2/templates/start.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/week1/bs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/week1/get_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/week1/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/week2/crwl.py" beforeDir="false" afterPath="$PROJECT_DIR$/task2/week2/crwl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/week2/indexer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/week2/inspect_index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/week2/myfirstwebapp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/week2/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/task2/week2/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/week2/wooshdemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/task2/week2/wooshdemo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736433914444</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Now myapp2.py should work correctly.&#10;And the design is cuter. Do we think we will be rich because of all the people wanting to post ads on our search engine? I am sure of it!">
+      <option name="closed" value="true" />
+      <created>1736446708250</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736446708250</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +152,7 @@
     <MESSAGE value="Tried building in-memory index" />
     <MESSAGE value="updated the Crawler and added indexer  &#10;crawling works, indexing too we only have to put it in one folder for the app to work" />
     <MESSAGE value="Now myapp2.py should work correctly" />
-    <option name="LAST_COMMIT_MESSAGE" value="Now myapp2.py should work correctly" />
+    <MESSAGE value="Now myapp2.py should work correctly.&#10;And the design is cuter. Do we think we will be rich because of all the people wanting to post ads on our search engine? I am sure of it!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Now myapp2.py should work correctly.&#10;And the design is cuter. Do we think we will be rich because of all the people wanting to post ads on our search engine? I am sure of it!" />
   </component>
 </project>
