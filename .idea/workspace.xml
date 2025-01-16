@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcb83688-7821-4b81-906b-693a951089a1" name="Changes" comment="Tried building in-memory index">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task2/week1/crwl.py" beforeDir="false" afterPath="$PROJECT_DIR$/task2/week1/crwl.py" afterDir="false" />
+    <list default="true" id="fcb83688-7821-4b81-906b-693a951089a1" name="Changes" comment="Added read me file">
+      <change beforePath="$PROJECT_DIR$/ai-web" beforeDir="false" afterPath="$PROJECT_DIR$/ai-web" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,16 +36,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.crwl.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.crwl.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\annal\PycharmProjects\ai\ai-web\task2\week2" />
+      <recent name="C:\Users\annal\PycharmProjects\ai\ai-web" />
       <recent name="C:\Users\annal\PycharmProjects\ai" />
     </key>
   </component>
@@ -106,12 +107,29 @@
       <option name="project" value="LOCAL" />
       <updated>1735979222712</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added read me file">
+      <option name="closed" value="true" />
+      <created>1737027678631</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737027678631</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added read me file">
+      <option name="closed" value="true" />
+      <created>1737027751811</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737027751811</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init commit" />
     <MESSAGE value="Tried building in-memory index" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tried building in-memory index" />
+    <MESSAGE value="Added read me file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added read me file" />
   </component>
 </project>
