@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcb83688-7821-4b81-906b-693a951089a1" name="Changes" comment="ReadMeFile">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fcb83688-7821-4b81-906b-693a951089a1" name="Changes" comment="es reicht jetzt aus die myapp2 file zu runnen anstatt erst crwaler" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737075838199</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="es reicht jetzt aus die myapp2 file zu runnen anstatt erst crwaler">
+      <option name="closed" value="true" />
+      <created>1737079731152</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737079731152</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,6 +177,7 @@
     <MESSAGE value="Now myapp2.py should work correctly.&#10;And the design is cuter. Do we think we will be rich because of all the people wanting to post ads on our search engine? I am sure of it!" />
     <MESSAGE value="I deleted all files that arent really needed and added some more comments" />
     <MESSAGE value="ReadMeFile" />
-    <option name="LAST_COMMIT_MESSAGE" value="ReadMeFile" />
+    <MESSAGE value="es reicht jetzt aus die myapp2 file zu runnen anstatt erst crwaler" />
+    <option name="LAST_COMMIT_MESSAGE" value="es reicht jetzt aus die myapp2 file zu runnen anstatt erst crwaler" />
   </component>
 </project>
