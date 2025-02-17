@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcb83688-7821-4b81-906b-693a951089a1" name="Changes" comment="Now myapp2.py should work correctly.&#10;And the design is cuter. Do we think we will be rich because of all the people wanting to post ads on our search engine? I am sure of it!">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task2/week1/bs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task2/week1/get_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task2/week1/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task2/week2/crwl.py" beforeDir="false" afterPath="$PROJECT_DIR$/task2/week2/crwl.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task2/week2/indexer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task2/week2/inspect_index.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task2/week2/myfirstwebapp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task2/week2/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/task2/week2/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task2/week2/wooshdemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/task2/week2/wooshdemo.py" afterDir="false" />
-    </list>
+    <list default="true" id="fcb83688-7821-4b81-906b-693a951089a1" name="Changes" comment="week 3 init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,8 +19,20 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/aiweb/task3" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Anna181203"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Anna181203/ai-web.git",
+    "accountId": "ef2489d0-871a-4e17-b556-808b2662a09a"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -41,25 +42,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Python.Unnamed.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ai-web.executor&quot;: &quot;Run&quot;,
-    &quot;Python.crwl.executor&quot;: &quot;Run&quot;,
-    &quot;Python.indexer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.inspect_index.executor&quot;: &quot;Run&quot;,
-    &quot;Python.myapp2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.search.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kev/miniconda3/envs/aiweb2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.EditorConfig&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.Unnamed.executor": "Run",
+    "Python.ai-web.executor": "Run",
+    "Python.crwl.executor": "Run",
+    "Python.indexer.executor": "Run",
+    "Python.inspect_index.executor": "Run",
+    "Python.myapp2.executor": "Run",
+    "Python.search.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/annal/PycharmProjects/ai/ai-web",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.EditorConfig"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\annal\PycharmProjects\ai\ai-web\aiweb" />
       <recent name="C:\Users\Kev\PycharmProjects\ai-web\task2\week2" />
       <recent name="C:\Users\Kev\PycharmProjects\ai-web\task2\week1" />
     </key>
@@ -91,7 +93,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
@@ -136,7 +138,31 @@
       <option name="project" value="LOCAL" />
       <updated>1736446708250</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="git init">
+      <option name="closed" value="true" />
+      <created>1739787039843</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739787039843</updated>
+    </task>
+    <task id="LOCAL-00006" summary="git init">
+      <option name="closed" value="true" />
+      <created>1739787088629</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739787088629</updated>
+    </task>
+    <task id="LOCAL-00007" summary="week 3 init">
+      <option name="closed" value="true" />
+      <created>1739787213352</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739787213352</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +181,8 @@
     <MESSAGE value="updated the Crawler and added indexer  &#10;crawling works, indexing too we only have to put it in one folder for the app to work" />
     <MESSAGE value="Now myapp2.py should work correctly" />
     <MESSAGE value="Now myapp2.py should work correctly.&#10;And the design is cuter. Do we think we will be rich because of all the people wanting to post ads on our search engine? I am sure of it!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Now myapp2.py should work correctly.&#10;And the design is cuter. Do we think we will be rich because of all the people wanting to post ads on our search engine? I am sure of it!" />
+    <MESSAGE value="git init" />
+    <MESSAGE value="week 3 init" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 3 init" />
   </component>
 </project>
