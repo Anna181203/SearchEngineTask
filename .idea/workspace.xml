@@ -4,29 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcb83688-7821-4b81-906b-693a951089a1" name="Changes" comment="Added read me file">
-      <change beforePath="$PROJECT_DIR$/ai-web" beforeDir="false" afterPath="$PROJECT_DIR$/ai-web" afterDir="false" />
-    </list>
+    <list default="true" id="fcb83688-7821-4b81-906b-693a951089a1" name="Changes" comment="week 3 init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Anna181203&quot;
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/aiweb/task3" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Anna181203"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Anna181203/ai-web.git&quot;,
-    &quot;accountId&quot;: &quot;ef2489d0-871a-4e17-b556-808b2662a09a&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Anna181203/ai-web.git",
+    "accountId": "ef2489d0-871a-4e17-b556-808b2662a09a"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -36,20 +42,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.crwl.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.Unnamed.executor": "Run",
+    "Python.ai-web.executor": "Run",
+    "Python.crwl.executor": "Run",
+    "Python.indexer.executor": "Run",
+    "Python.inspect_index.executor": "Run",
+    "Python.myapp2.executor": "Run",
+    "Python.search.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/annal/PycharmProjects/ai/ai-web",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.EditorConfig"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\annal\PycharmProjects\ai\ai-web\task2\week2" />
-      <recent name="C:\Users\annal\PycharmProjects\ai\ai-web" />
-      <recent name="C:\Users\annal\PycharmProjects\ai" />
+      <recent name="C:\Users\annal\PycharmProjects\ai\ai-web\aiweb" />
+      <recent name="C:\Users\Kev\PycharmProjects\ai-web\task2\week2" />
+      <recent name="C:\Users\Kev\PycharmProjects\ai-web\task2\week1" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ai-web" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ai" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -67,69 +106,83 @@
       <option name="presentableId" value="Default" />
       <updated>1733749805194</updated>
     </task>
-    <task id="LOCAL-00001" summary="Init commit">
+    <task id="LOCAL-00001" summary="updated the Crawler and added indexer  &#10;crawling works, indexing too we only have to put it in one folder for the app to work">
       <option name="closed" value="true" />
-      <created>1733750045840</created>
+      <created>1736253215890</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1733750045840</updated>
+      <updated>1736253215890</updated>
     </task>
-    <task id="LOCAL-00002" summary="Init commit">
+    <task id="LOCAL-00002" summary="updated the Crawler and added indexer  &#10;crawling works, indexing too we only have to put it in one folder for the app to work">
       <option name="closed" value="true" />
-      <created>1735978790519</created>
+      <created>1736256740701</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1735978790519</updated>
+      <updated>1736256740701</updated>
     </task>
-    <task id="LOCAL-00003" summary="Init commit">
+    <task id="LOCAL-00003" summary="Now myapp2.py should work correctly">
       <option name="closed" value="true" />
-      <created>1735978846360</created>
+      <created>1736433914444</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1735978846360</updated>
+      <updated>1736433914444</updated>
     </task>
-    <task id="LOCAL-00004" summary="Init commit">
+    <task id="LOCAL-00004" summary="Now myapp2.py should work correctly.&#10;And the design is cuter. Do we think we will be rich because of all the people wanting to post ads on our search engine? I am sure of it!">
       <option name="closed" value="true" />
-      <created>1735978862180</created>
+      <created>1736446708250</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1735978862181</updated>
+      <updated>1736446708250</updated>
     </task>
-    <task id="LOCAL-00005" summary="Tried building in-memory index">
+    <task id="LOCAL-00005" summary="git init">
       <option name="closed" value="true" />
-      <created>1735979222712</created>
+      <created>1739787039843</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1735979222712</updated>
+      <updated>1739787039843</updated>
     </task>
-    <task id="LOCAL-00006" summary="Added read me file">
+    <task id="LOCAL-00006" summary="git init">
       <option name="closed" value="true" />
-      <created>1737027678631</created>
+      <created>1739787088629</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1737027678631</updated>
+      <updated>1739787088629</updated>
     </task>
-    <task id="LOCAL-00007" summary="Added read me file">
+    <task id="LOCAL-00007" summary="week 3 init">
       <option name="closed" value="true" />
-      <created>1737027751811</created>
+      <created>1739787213352</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1737027751811</updated>
+      <updated>1739787213352</updated>
     </task>
     <option name="localTasksCounter" value="8" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Init commit" />
     <MESSAGE value="Tried building in-memory index" />
-    <MESSAGE value="Added read me file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added read me file" />
+    <MESSAGE value="updated the Crawler and added indexer  &#10;crawling works, indexing too we only have to put it in one folder for the app to work" />
+    <MESSAGE value="Now myapp2.py should work correctly" />
+    <MESSAGE value="Now myapp2.py should work correctly.&#10;And the design is cuter. Do we think we will be rich because of all the people wanting to post ads on our search engine? I am sure of it!" />
+    <MESSAGE value="git init" />
+    <MESSAGE value="week 3 init" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 3 init" />
   </component>
 </project>
