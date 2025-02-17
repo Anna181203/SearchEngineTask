@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcb83688-7821-4b81-906b-693a951089a1" name="Changes" comment="wsgi file deleted">
-      <change beforePath="$PROJECT_DIR$/task2/week2/myapp2.py" beforeDir="false" afterPath="$PROJECT_DIR$/task2/week2/myapp2.py" afterDir="false" />
+    <list default="true" id="fcb83688-7821-4b81-906b-693a951089a1" name="Changes" comment="Now myapp2.py should work correctly.&#10;And the design is cuter. Do we think we will be rich because of all the people wanting to post ads on our search engine? I am sure of it!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/week1/bs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/week1/get_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/week1/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/week2/crwl.py" beforeDir="false" afterPath="$PROJECT_DIR$/task2/week2/crwl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/week2/indexer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/week2/inspect_index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/week2/myfirstwebapp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/week2/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/task2/week2/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2/week2/wooshdemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/task2/week2/wooshdemo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +49,8 @@
     &quot;Python.crwl.executor&quot;: &quot;Run&quot;,
     &quot;Python.indexer.executor&quot;: &quot;Run&quot;,
     &quot;Python.inspect_index.executor&quot;: &quot;Run&quot;,
-    &quot;Python.myapp.wsgi.executor&quot;: &quot;Run&quot;,
     &quot;Python.myapp2.executor&quot;: &quot;Run&quot;,
     &quot;Python.search.executor&quot;: &quot;Run&quot;,
-    &quot;Python.wooshdemo.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -67,7 +74,6 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -130,71 +136,7 @@
       <option name="project" value="LOCAL" />
       <updated>1736446708250</updated>
     </task>
-    <task id="LOCAL-00005" summary="I deleted all files that arent really needed and added some more comments">
-      <option name="closed" value="true" />
-      <created>1736987671244</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1736987671244</updated>
-    </task>
-    <task id="LOCAL-00006" summary="I deleted all files that arent really needed and added some more comments">
-      <option name="closed" value="true" />
-      <created>1737025886506</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1737025886506</updated>
-    </task>
-    <task id="LOCAL-00007" summary="ReadMeFile">
-      <option name="closed" value="true" />
-      <created>1737075838199</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1737075838199</updated>
-    </task>
-    <task id="LOCAL-00008" summary="es reicht jetzt aus die myapp2 file zu runnen anstatt erst crwaler">
-      <option name="closed" value="true" />
-      <created>1737079731152</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1737079731152</updated>
-    </task>
-    <task id="LOCAL-00009" summary="es reicht jetzt aus die myapp2 file zu runnen anstatt erst crwaler">
-      <option name="closed" value="true" />
-      <created>1737080242718</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1737080242718</updated>
-    </task>
-    <task id="LOCAL-00010" summary="es reicht jetzt aus die myapp2 file zu runnen anstatt erst crwaler">
-      <option name="closed" value="true" />
-      <created>1737082464464</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1737082464464</updated>
-    </task>
-    <task id="LOCAL-00011" summary="es reicht jetzt aus die myapp2 file zu runnen anstatt erst crwaler">
-      <option name="closed" value="true" />
-      <created>1737083049914</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1737083049914</updated>
-    </task>
-    <task id="LOCAL-00012" summary="wsgi file deleted">
-      <option name="closed" value="true" />
-      <created>1737117362062</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1737117362062</updated>
-    </task>
-    <option name="localTasksCounter" value="13" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,10 +155,6 @@
     <MESSAGE value="updated the Crawler and added indexer  &#10;crawling works, indexing too we only have to put it in one folder for the app to work" />
     <MESSAGE value="Now myapp2.py should work correctly" />
     <MESSAGE value="Now myapp2.py should work correctly.&#10;And the design is cuter. Do we think we will be rich because of all the people wanting to post ads on our search engine? I am sure of it!" />
-    <MESSAGE value="I deleted all files that arent really needed and added some more comments" />
-    <MESSAGE value="ReadMeFile" />
-    <MESSAGE value="es reicht jetzt aus die myapp2 file zu runnen anstatt erst crwaler" />
-    <MESSAGE value="wsgi file deleted" />
-    <option name="LAST_COMMIT_MESSAGE" value="wsgi file deleted" />
+    <option name="LAST_COMMIT_MESSAGE" value="Now myapp2.py should work correctly.&#10;And the design is cuter. Do we think we will be rich because of all the people wanting to post ads on our search engine? I am sure of it!" />
   </component>
 </project>
